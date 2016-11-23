@@ -71,4 +71,4 @@ This will ensure you’re downloading the correct version of the gem. Once you p
  11. One last thing. . . Some libraries that Rails depends on require a JavaScript runtime to be installed. Please install Node.js so that those libraries work properly.
 
 
-#### I hope this works !!
+## I hope this works !!
