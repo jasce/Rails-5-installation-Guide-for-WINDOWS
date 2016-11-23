@@ -8,7 +8,7 @@
 
 
 
- 1. Download and run [Ruby Installer version 2.3.1](https://bintray.com/oneclick/rubyinstaller/rubyinstaller/2.3.1) or [Ruby Installer version 2.2.5](https://bintray.com/oneclick/rubyinstaller/rubyinstaller/2.2.5)from rubyinstaller.org. (For convenience, I have linked directly to the bintray). Note: Make sure to download RubyInstaller version > 2.2.2.
+ 1. Download and run [Ruby Installer version 2.3.1](https://bintray.com/oneclick/rubyinstaller/rubyinstaller/2.3.1) or [Ruby Installer version 2.2.5](https://bintray.com/oneclick/rubyinstaller/rubyinstaller/2.2.5) from rubyinstaller.org. (For convenience, I have linked directly to the bintray). Note: Make sure to download RubyInstaller version > 2.2.2.
  
  
 
@@ -56,9 +56,9 @@
 
 
 
-```
+`
 gem install rails --version 5.0.0
-```.
+`.
 
 
 
