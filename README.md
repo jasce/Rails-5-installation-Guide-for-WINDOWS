@@ -1,8 +1,10 @@
 # Rails-5-installation-Guide-for-WINDOWS
 
+###
+
 ### Installing Rails 5 on WINDOWS can be a pain. So, here I'm presenting the simple installation guide for the awesome web framework.
 
-
+###
 
 #### First, we need an installation of the Ruby programming language. We’re going to use a precompiled version of Ruby called Ruby Installer.
 
